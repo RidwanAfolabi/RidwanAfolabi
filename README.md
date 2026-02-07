@@ -122,8 +122,7 @@ Information Visualization, Database & Distributed Systems, Machine Learning, Dat
 ## 📫 How to Reach Me
 - 💼 LinkedIn: [Ridwan Afolabi](https://linkedin.com/in/ridwan-m-8105381b2)
 - 💻 GitHub: [RidwanAfolabi](https://github.com/RidwanAfolabi)
-- 📧 Email: afolabimohammed40@gmail.com
-- 📱 Phone: +234 906 185 9992
+- 📧 Email: ridwanfolabisco@gmail.com
 
 ## ⚡ Fun Fact
 When I'm not analyzing data or building applications, you'll find me exploring cutting-edge ML research, contributing to open-source projects, or creating technical content to help others in the developer community!
