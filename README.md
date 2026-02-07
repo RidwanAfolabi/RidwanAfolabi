@@ -1,88 +1,115 @@
 # Hi there, I'm Ridwan Afolabi! 👋
 
 ## 🚀 About Me
-I'm a **Data Scientist & Software Engineer** passionate about leveraging data-driven insights and robust software solutions to solve complex problems. With expertise spanning machine learning, full-stack development, and cloud technologies, I build scalable applications that make a real-world impact.
+I'm a **Data Science student and Software Developer** passionate about building data-driven solutions and scalable web applications. Currently pursuing my Bachelor's in Computer Science (Data Science) with a strong focus on machine learning, data analytics, and full-stack development.
 
 ## 💼 Professional Experience
-**Machine Learning Engineer Intern** | AI Labs, FUTA *(Jan 2024 - Aug 2024)*
-- Developed and optimized NLP models for sermon translation using Hugging Face Transformers
-- Implemented RAG architecture achieving 92% BLEU score and 88% ROUGE-L score
-- Built end-to-end ML pipeline with FastAPI backend and Streamlit frontend
 
-**Software Developer** | SCOINC, AIU *(Oct 2023 - Oct 2024)*
-- Architected web applications and mobile solutions for student engagement
-- Implemented real-time features and automated workflows
-- Led technical training sessions for team members
+**Remote Web Developer & Technical Manager** | Pearl Rose Foundation *(Dec 2022 – Present)*
+- Maintain and support multiple live production websites with 95%+ uptime
+- Perform backend configuration, scripting, debugging, and security updates
+- Produce technical user guides and documentation for stakeholders
+
+**Data Analytics Job Simulation** | Deloitte (via Forage) *(Jan 2025 – Feb 2025)*
+- Applied Python-based data processing to analyze multi-source datasets in forensic technology context
+- Built interactive Tableau dashboards for data visualization
+- Compiled technical reports to support structured decision-making
+
+**Career-Ready Tech Support Professional** | Dell Technologies *(Mar 2024 – Jul 2024)*
+- Completed structured training in enterprise computing and system troubleshooting
+- Practiced incident triage, fault diagnosis, and escalation workflows
+- Developed technical documentation in simulated environments
 
 ## 🔬 Featured Projects
-### [Sermon Translation System](https://github.com/RidwanAfolabi/sermon-translation-system-fyp) | [Demo](https://huggingface.co/spaces/ridwan-afolabi/sermon-translation-fyp)
-AI-powered translation system using transformer models, RAG, and NLP
-- **Tech:** Python, Hugging Face, FastAPI, Streamlit, PostgreSQL
-- Achieved 92% translation accuracy across multiple sermon styles
 
-### [Crime Data Analysis & Visualization](https://drive.google.com/drive/folders/1O_t_7c54h20hI9rJSVTABgP8OXmeJy9V)
-Interactive dashboard analyzing London crime patterns with predictive insights
-- **Tech:** Power BI, Python, Pandas, Statistical Analysis
+### [AI-Driven Sermon Translation System](https://github.com/RidwanAfolabi/sermon-translation-system-fyp) | [Live App](https://app.ismartsermon.com)
+End-to-end AI-powered software system for sermon translation and real-time subtitle display
+- **Tech:** Python, ML Models, FastAPI, Real-time Audio Processing
+- Designed modular system architecture with API-based communication
+- Implemented live audio stream processing and translation pipeline
 
-### [NDDC Project Database](https://drive.google.com/drive/folders/1_mjky4DhSJ9x1kHolC87V04IbthGJers)
-SQL-based database management system for infrastructure project tracking
-- **Tech:** SQL, Database Design, Query Optimization
+### [Flood Disaster Prediction Using AI/ML](https://drive.google.com/drive/folders/1O_t_7c54h20hI9rJSVTABgP8OXmeJy9V?usp=sharing)
+Research project developing ML models for flood-prone region classification
+- **Tech:** Python, Machine Learning, Data Preprocessing, Feature Engineering
+- Created vulnerability maps for climate-resilience planning
+- Performed model selection, evaluation, and disaster-risk classification
 
-### [Amazon Beauty Sentiment Analysis](https://amazon-beauty-sentiment-app.streamlit.app/)
-ML-powered sentiment classification of product reviews
-- **Tech:** Python, NLP, Scikit-learn, Streamlit, TF-IDF
+### [Python Testing & Automation Projects](https://github.com/RidwanAfolabi/python-mini-programs)
+CS50 Python coursework - automated test programs and mini-applications
+- **Tech:** Python, Automated Testing, Debugging, Test-Driven Development
+- Developed scripts to validate correctness and handle edge cases
+- Strengthened problem-solving and structured programming skills
+
+### [Sentiment Analysis Web App](https://github.com/RidwanAfolabi/nlp-amazon-b_product-sentiment) | [Live App](https://amazon-beauty-sentiment-app.streamlit.app/)
+Deployed ML-powered sentiment analysis system for product reviews
+- **Tech:** Python, Streamlit, TF-IDF, Logistic Regression, Linear SVM, SBERT
+- Implemented and compared multiple models with hyperparameter tuning
+- Deployed best-performing model with saved artifacts for reproducible inference
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
+### Languages & Core Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### Data Science & ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Tools & Platforms
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+### Data Visualization & Analytics
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Design & Communication
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+
 ## 🎓 Education
-**BSc. Computer Science** | Federal University of Technology, Akure *(2020 - 2024)*
-- Second Class Upper Division
-- Focus: Data Science, Machine Learning, Software Engineering
+**Bachelor of Computer Science (Hons) - Data Science** | Albukhary International University (AIU), Malaysia  
+*(Oct 2023 - Oct 2026)* | **CGPA: 3.83/4.00**
+
+**Relevant Coursework:**  
+Information Visualization, Database & Distributed Systems, Machine Learning, Data Mining, Deep Learning, Statistical Programming, Software Engineering, Cloud Computing, Operating Systems, Computer Networks, Cyber Ethics
 
 ## 🏆 Certifications
-- [AWS Academy Graduate - AWS Cloud Foundations](https://www.credly.com/badges/25ea7688-7395-4360-af7d-d5d35b13d07a)
-- [Introduction to Artificial Intelligence](https://www.credly.com/badges/ea219094-8f0a-4e0a-bd0f-98aa770007d1)
+- **PCEP™ – Certified Entry-Level Python Programmer** | Python Institute
+- **Google Cloud Computing Foundations** | Google
+- **PCED™ - Certified Entry-Level Data Analyst with Python** | Python Institute *(In Progress)*
 
 ## 🌱 Currently Learning
-- Advanced Deep Learning architectures (Transformers, GANs)
-- MLOps and model deployment at scale
-- Distributed systems and microservices architecture
-- Cloud-native development (Kubernetes, Terraform)
+- Advanced Machine Learning & Deep Learning techniques
+- Cloud-native application development (AWS/GCP)
+- MLOps and production model deployment
+- Advanced data engineering and ETL pipelines
+- Distributed systems and scalable architectures
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RidwanAfolabi&show_icons=true&theme=radical)
@@ -99,7 +126,7 @@ ML-powered sentiment classification of product reviews
 - 📱 Phone: +234 906 185 9992
 
 ## ⚡ Fun Fact
-When I'm not training models or writing code, you'll find me exploring the latest research papers, contributing to open-source projects, or mentoring aspiring developers in the tech community!
+When I'm not analyzing data or building applications, you'll find me exploring cutting-edge ML research, contributing to open-source projects, or creating technical content to help others in the developer community!
 
 ---
 
