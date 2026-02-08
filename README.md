@@ -303,7 +303,6 @@ I'm always excited to work on innovative projects, especially those involving:
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridwanfolabisco@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidwanAfolabi)
 
-**📱 Phone:** +234 906 185 9992
 
 ---
 
