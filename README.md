@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ridwan-m-8105381b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:afolabimohammed40@gmail.com">
+  <a href="mailto:ridwanfolabisco@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/RidwanAfolabi">
@@ -22,16 +22,15 @@
 
 ## About Me
 
-I'm a Computer Science (Data Science) undergraduate focused on building **practical, research-driven AI systems** and **reliable software solutions**. I enjoy working across the full pipeline — from data exploration and modeling to backend development, deployment, and documentation.
+I'm a Computer Science (Data Science) undergraduate focused on building **practical, research-driven AI systems** and **reliable software solutions**. I enjoy working across the full pipeline, from data exploration and modeling to backend development, deployment, and documentation.
 
-I value **clarity, scalability, and real-world impact**, whether I'm training a model, designing an API, or maintaining a live production system.
+I value **clarity, scalability, and real-world impact**, whether I'm analyzing data, training a model, designing an API, or maintaining a live production system.
 
 ```yaml
 Name: Ridwan Afolabi
 Location: Kedah, Malaysia
-Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
+Current Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
 CGPA: 3.83 / 4.00
-Expected Graduation: 2026
 ```
 
 ---
@@ -64,11 +63,12 @@ Expected Graduation: 2026
 </td>
 <td width="33%">
 
-### 🛠️ Tech Support
+### 🛠️ Tech Support Trainee
 **Dell Technologies**  
 *Mar 2024 - Jul 2024*
 
 - System troubleshooting
+- IT Support
 - Incident management
 - Documentation
 
@@ -114,13 +114,12 @@ Expected Graduation: 2026
 ---
 
 ### 🐍 Python Automation Suite
-> CS50 Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
+> Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
 
 **Automated testing programs** and mini-applications showcasing test-driven development and structured problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-000000?style=flat-square)
-![CS50](https://img.shields.io/badge/CS50-A41E35?style=flat-square)
 
 ---
 
