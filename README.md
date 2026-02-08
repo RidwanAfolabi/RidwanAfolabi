@@ -2,14 +2,14 @@
 <h3 align="center">Data Science • Software Engineering • Machine Learning & AI</h3>
 
 <p align="center">
-  <i>Turning data into decisions • Building systems that scale • Learning with intent</i>
+  <i>Turning data into decisions • Building systems that impact • Learning with intent</i>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ridwan-m-8105381b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:afolabimohammed40@gmail.com">
+  <a href="mailto:ridwanfolabisco@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/RidwanAfolabi">
@@ -22,16 +22,15 @@
 
 ## About Me
 
-I'm a Computer Science (Data Science) undergraduate focused on building **practical, research-driven AI systems** and **reliable software solutions**. I enjoy working across the full pipeline — from data exploration and modeling to backend development, deployment, and documentation.
+I'm a Computer Science (Data Science) undergraduate focused on building **practical, research-driven AI systems** and **reliable software solutions**. I enjoy working across the full pipeline, from data exploration and modeling to backend development, deployment, and documentation.
 
-I value **clarity, scalability, and real-world impact**, whether I'm training a model, designing an API, or maintaining a live production system.
+I value **clarity, scalability, and real-world impact**, whether I'm analyzing data, training a model, designing an API, or maintaining a live production system.
 
 ```yaml
 Name: Ridwan Afolabi
 Location: Kedah, Malaysia
-Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
+Current Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
 CGPA: 3.83 / 4.00
-Expected Graduation: 2026
 ```
 
 ---
@@ -64,11 +63,12 @@ Expected Graduation: 2026
 </td>
 <td width="33%">
 
-### 🛠️ Tech Support
+### 🛠️ Tech Support Trainee
 **Dell Technologies**  
 *Mar 2024 - Jul 2024*
 
 - System troubleshooting
+- IT Support
 - Incident management
 - Documentation
 
@@ -114,13 +114,12 @@ Expected Graduation: 2026
 ---
 
 ### 🐍 Python Automation Suite
-> CS50 Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
+> Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
 
 **Automated testing programs** and mini-applications showcasing test-driven development and structured problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-000000?style=flat-square)
-![CS50](https://img.shields.io/badge/CS50-A41E35?style=flat-square)
 
 ---
 
@@ -201,6 +200,21 @@ Expected Graduation: 2026
 
 ---
 
+## Leadership & Community Involvement
+
+**President, SCI Committee** | School of Computing & Informatics, AIU  
+*Nov 2024 – Nov 2025*  
+- Led and organized the **first-ever university-wide coding competition** for 300+ students  
+- Coordinated multinational teams across planning, logistics, technical setup, and documentation  
+- Oversaw technical communications, reporting, and post-event evaluations  
+
+**Mentor, Young Innovators Challenge (YIC)** | Kedah Maker Fair  
+*Apr 2025 – Jul 2025*  
+- Mentored high-school teams on **AI and IoT project development**  
+- Guided teams on system design, debugging strategies, and implementation decisions  
+- Supported technical problem-solving and project refinement  
+---
+
 ## 🏆 Professional Certifications
 
 <div align="center">
@@ -269,7 +283,7 @@ Expected Graduation: 2026
 - 🌱 Deepening my expertise in **Deep Learning** and **MLOps**
 - 💡 Exploring **cloud-native architectures** and **distributed systems**
 - 📚 Contributing to **open-source projects** in the ML/AI space
-- ✍️ Sharing knowledge through **technical writing** and **documentation**
+- ✍️ Sharing knowledge through **teaching/mentorship** and **community volunteering**
 
 ---
 
@@ -286,13 +300,13 @@ I'm always excited to work on innovative projects, especially those involving:
 ### 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridwan-m-8105381b2)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afolabimohammed40@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridwanfolabisco@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidwanAfolabi)
 
 **📱 Phone:** +234 906 185 9992
 
 ---
 
-<sub>⭐ From [RidwanAfolabi](https://github.com/RidwanAfolabi) • Made with 💙 and lots of ☕</sub>
+<sub>⭐ From [RidwanAfolabi](https://github.com/RidwanAfolabi) • Nice to meet you</sub>
 
 </div>
