@@ -2,7 +2,7 @@
 <h3 align="center">Data Science • Software Engineering • Machine Learning & AI</h3>
 
 <p align="center">
-  <i>Turning data into decisions • Building systems that scale • Learning with intent</i>
+  <i>Turning data into decisions • Building systems that impacts • Learning with intent</i>
 </p>
 
 <p align="center">
