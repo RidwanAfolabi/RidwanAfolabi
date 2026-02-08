@@ -232,7 +232,7 @@ CGPA: 3.83 / 4.00
 - 🌱 Deepening my expertise in **Deep Learning** and **MLOps**
 - 💡 Exploring **cloud-native architectures** and **distributed systems**
 - 📚 Contributing to **open-source projects** in the ML/AI space
-- ✍️ Sharing knowledge through **technical writing** and **documentation**
+- ✍️ Sharing knowledge through **teaching/mentoring youngsters** and **volunteering**
 
 ---
 
@@ -249,13 +249,12 @@ I'm always excited to work on innovative projects, especially those involving:
 ### 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridwan-m-8105381b2)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afolabimohammed40@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridwanfolabisco@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidwanAfolabi)
 
-**📱 Phone:** +234 906 185 9992
 
 ---
 
-<sub>⭐ From [RidwanAfolabi](https://github.com/RidwanAfolabi) • Made with 💙 and lots of ☕</sub>
+<sub>⭐ From [RidwanAfolabi](https://github.com/RidwanAfolabi) • Nice to meet you</sub>
 
 </div>
