@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm RAM (Ridwan Afolabi Muhammad)</h1>
-<h3 align="center">Data Science • Software Engineering • Machine Learning & AI</h3>
+<h3 align="center">Data Science • Machine Learning & AI • Software Engineering</h3>
 
 <p align="center">
   <i>Turning data into decisions • Building systems that impact • Learning with intent</i>
