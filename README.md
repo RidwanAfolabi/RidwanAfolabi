@@ -208,7 +208,7 @@ CGPA: 3.83 / 4.00
 - Coordinated multinational teams across planning, logistics, technical setup, and documentation  
 - Oversaw technical communications, reporting, and post-event evaluations  
 
-**Mentor, Young Innovators Challenge (YIC)** | Kedah Maker Fair  
+**Mentor, Young Innovators Challenge (YIC)** | Kedah Maker Fair  by Yayasan Sime Darby & Chumbaka
 *Apr 2025 – Jul 2025*  
 - Mentored high-school teams on **AI and IoT project development**  
 - Guided teams on system design, debugging strategies, and implementation decisions  
