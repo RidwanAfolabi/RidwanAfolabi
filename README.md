@@ -30,7 +30,6 @@ I value **clarity, scalability, and real-world impact**, whether I'm analyzing d
 Name: Ridwan Afolabi
 Location: Kedah, Malaysia
 Current Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
-CGPA: 3.83 / 4.00
 ```
 
 ---
