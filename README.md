@@ -40,7 +40,7 @@ Current Education: B.Sc. Computer Science (Data Science) @ Albukhary Internation
 <tr>
 <td width="33%">
 
-### 🌐 Web Developer
+### 🌐 Web Developer (Volunteer)
 **Pearl Rose Foundation**  
 *Dec 2022 - Present*
 
