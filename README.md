@@ -79,6 +79,13 @@ Current Education: B.Sc. Computer Science (Data Science) @ Albukhary Internation
 
 ## 🚀 Featured Projects
 
+### 🌐 Websites (Private Repos)
+> Live production websites built and maintained (repositories not public).
+
+- [Sayne DF](https://saynedf.org/)
+- [Pearl RFD](https://pearlrfd.org/)
+- [Omu Allah](https://omuallah.org/)
+
 ### 🤖 AI Sermon Translation System
 > Real-time AI translation with live subtitle display • [🌐 Live Demo](https://app.ismartsermon.com) • [💻 Code](https://github.com/RidwanAfolabi/sermon-translation-system-fyp)
 
