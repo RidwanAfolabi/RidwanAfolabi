@@ -112,7 +112,7 @@ Current Education: B.Sc. Computer Science (Data Science) @ Albukhary Internation
 
 ---
 
-### 🐍 Python Automation Suite
+### 🐍 Python Programs Suite
 > Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
 
 **Automated testing programs** and mini-applications showcasing test-driven development and structured problem-solving.
