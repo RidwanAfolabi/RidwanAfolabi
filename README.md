@@ -82,9 +82,28 @@ Current Education: B.Sc. Computer Science (Data Science) @ Albukhary Internation
 ### 🌐 Websites (Private Repos)
 > Live production websites built and maintained (repositories not public).
 
-- [Sayne DF](https://saynedf.org/)
-- [Pearl RFD](https://pearlrfd.org/)
-- [Omu Allah](https://omuallah.org/)
+<table>
+<tr>
+<th align="left">Site</th>
+<th align="left">What it is</th>
+<th align="left">Live</th>
+</tr>
+<tr>
+<td><b>Sayne DF</b></td>
+<td>Official foundation website with mission, programs, and contact details.</td>
+<td><a href="https://saynedf.org/">saynedf.org</a></td>
+</tr>
+<tr>
+<td><b>Pearl RFD</b></td>
+<td>Nonprofit site highlighting initiatives, updates, and community outreach.</td>
+<td><a href="https://pearlrfd.org/">pearlrfd.org</a></td>
+</tr>
+<tr>
+<td><b>Omu Allah</b></td>
+<td>Organization site featuring mission, events, and engagement channels.</td>
+<td><a href="https://omuallah.org/">omuallah.org</a></td>
+</tr>
+</table>
 
 ### 🤖 AI Sermon Translation System
 > Real-time AI translation with live subtitle display • [🌐 Live Demo](https://app.ismartsermon.com) • [💻 Code](https://github.com/RidwanAfolabi/sermon-translation-system-fyp)
