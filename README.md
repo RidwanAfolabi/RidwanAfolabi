@@ -27,8 +27,7 @@ I'm a Computer Science (Data Science) undergraduate focused on building **practi
 I value **clarity, scalability, and real-world impact**, whether I'm analyzing data, training a model, designing an API, or maintaining a live production system.
 
 ```yaml
-Name: Ridwan Afolabi
-Location: Kedah, Malaysia
+Location: Malaysia
 Current Education: B.Sc. Computer Science (Data Science) @ Albukhary International University
 ```
 
