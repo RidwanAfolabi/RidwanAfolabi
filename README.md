@@ -137,13 +137,19 @@ Current Education: B.Sc. Computer Science (Data Science) @ Albukhary Internation
 
 ---
 
-### 🐍 Python Programs Suite
-> Python coursework collection • [💻 Code](https://github.com/RidwanAfolabi/python-mini-programs)
+### 📊 Automated Marketing Performance ETL & Analytics Dashboard
+> Modular ETL pipeline for GA4 marketing data • [💻 Source Code](https://github.com/RidwanAfolabi/marketing-performance-etl-dashboard) • [📊 Dashboard](https://lookerstudio.google.com/reporting/9a4a7491-564a-4891-af16-1b3229fde8df/page/6BiqF) • *February 2026*
 
-**Automated testing programs** and mini-applications showcasing test-driven development and structured problem-solving.
+**Production-style ETL system** automating the extraction, transformation, and reporting of GA4 event-level marketing data. Engineered session-based event reconstruction logic to normalize denormalized parameter structures so that traffic, engagement, device, geographic and promotion KPIs could be accurately aggregated.
+
+Implemented production-style architecture by separating the extract, transform, and load layers, including Kaggle API, Pandas, MySQL and Google Sheets API to refresh the Google Sheet automatically and propagate to the LookerStudio dashboard. Orchestrated through a centralized pipeline with environment credential management and scheduled execution with a task scheduler, which simulated real world system automation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-000000?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=flat-square)
 
 ---
 
