@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm RAM (Ridwan Afolabi Muhammad)</h1>
-<h3 align="center">Data Science • Machine Learning & AI • Software Engineering</h3>
+<h3 align="center">AI-integrated System Developer</h3>
 
 <p align="center">
   <i>Turning data into decisions • Building systems that impact • Learning with intent</i>
@@ -18,13 +18,26 @@
   <img src="https://komarev.com/ghpvc/?username=RidwanAfolabi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <strong>📄 Want to learn more about my experience?</strong><br>
+  View or download my full comprehensive CV in PDF format.
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1KDX8PK13WG8AUR9ZoDP_0W7VGbHjGnva?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Full%20Comprehensive%20CV%20(PDF)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View full comprehensive CV PDF"/>
+  </a>
+</p>
+
 ---
 
 ## About Me
 
-I'm a Computer Science (Data Science) undergraduate focused on building **practical, research-driven AI systems** and **reliable software solutions**. I enjoy working across the full pipeline, from data exploration and modeling to backend development, deployment, and documentation.
+I'm a self-confident, detail-oriented, and ownership-driven **Computer Science professional** focused on building **practical, research-driven AI systems** and **reliable software solutions**. I apply technology-driven solutions to real-world challenges, particularly in communication, financial empowerment, and inclusive access to technology.
 
-I value **clarity, scalability, and real-world impact**, whether I'm analyzing data, training a model, designing an API, or maintaining a live production system.
+I work across the full technology pipeline, including AI-integrated systems, software engineering, machine learning, frontend and backend services, database design, AI-driven workflows, and hardware-driven applications. My experience includes Python, web application development, cloud computing, cloud-based applications, hardware programming, deployment, and production system support. I value **clarity, scalability, and real-world impact**, whether I'm analyzing data, training a model, designing an API, troubleshooting a live system, or documenting a solution.
+
+Driven by technical excellence, service, and leadership, I enjoy collaborating across teams, taking ownership of challenging tasks, and learning rapidly in dynamic environments. Through technology and community contribution, I aim to create opportunities and build solutions that make a meaningful difference.
 
 ```yaml
 Name: Ridwan Afolabi
